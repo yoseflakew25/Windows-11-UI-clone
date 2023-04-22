@@ -1,9 +1,5 @@
 # Windows 11 - Vue.js
 Windows 11 simulator built with modern web technologies, Vue.js for the main framework, Tailwind as css framework, Vuex, Scss..
-
-## Live Demo
-[https://bilalbentoumi.github.io/win11-vue](https://bilalbentoumi.github.io/win11-vue)
-
 ## Screenshots
 ![windows11-light-mode](./public/screenshots/light.png)
 ![windows11-dark-mode](./public/screenshots/dark.png)
